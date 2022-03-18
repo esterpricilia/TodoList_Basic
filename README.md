@@ -1,6 +1,5 @@
 <h1> Basic Todolist </h1>
-
-
+<h2> Use Next.js, React,js, Prisma(Connect to database) </h2>
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
